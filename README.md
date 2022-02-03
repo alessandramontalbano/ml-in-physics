@@ -1,5 +1,5 @@
-# spazio
-Astronomy/Space related projects
+# Machine learning in Physics
+Simple physics related projects
 
 **- Machine Learning for the Search for Extraterrestrial Intelligence**
 *(SETI Institute Code Challenge https://github.com/setiquest/ml4seti)*

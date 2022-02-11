@@ -1,5 +1,5 @@
 # Machine learning in Physics
-Simple physics related projects (updating)
+Simple physics related projects (still updating)
 
 **- Machine Learning for the Search for Extraterrestrial Intelligence**
 
